@@ -40,7 +40,7 @@
     --focus-primary: #00b0f4;
     --radio-group-dot-foreground: #8ea1e1;
     --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
-    --channeltextarea-background: rgb(0, 0, 0);
+    --channeltextarea-background: var(--background-tertiary);
     --activity-card-background: #202225;
     --textbox-markdown-syntax: #8e9297;
     --deprecated-card-bg: rgba(32,34,37,0.6);
